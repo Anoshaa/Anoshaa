@@ -1,3 +1,4 @@
+https://github.com/Anoshaa/Anoshaa/blob/main/github%20bannner.png
 <h1 align="center">Hi 👋, I'm Anosha Ashraf Khan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
