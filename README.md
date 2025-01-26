@@ -20,8 +20,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF0xpUcu8vdYNU_tg6akKtnP4Fnb6byUEGKA&s" alt="bootstrap" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDnQyPzKZsXzhEaOdTxqnzjUljfQApEKPIDg&s" alt="css3" width="50" height="50"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYk594AhSKw5Eb3iHkPHs_XmpCqaRVgu0mvg&s" alt="html5" width="50" height="50"/>
 <img src="https://brandslogos.com/wp-content/uploads/images/large/react-logo-1.png" alt="reactjs" width="50" height="50"/>
 <img src="https://i.pinimg.com/736x/4a/2b/e7/4a2be73b1e2efb44355436c40bf496dd.jpg" alt="nextjs" width="50" height="50"/>
 <img src="https://firebase.google.com/static/images/brand-guidelines/logo-vertical.png" alt="firebase" width="50" height="50"/>
