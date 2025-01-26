@@ -21,7 +21,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF0xpUcu8vdYNU_tg6akKtnP4Fnb6byUEGKA&s" alt="bootstrap" width="50" height="50"/> &nbsp;
-  <img src="https://i.pinimg.com/736x/16/4a/71/164a71062f511eac9be2480b5ceb506f.jpg" alt="css3" width="50" height="50"/> &nbsp;
+  <img src="https://img.icons8.com/color/512/css3.png" alt="css3" width="50" height="50"/> &nbsp;
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYk594AhSKw5Eb3iHkPHs_XmpCqaRVgu0mvg&s" alt="html5" width="50" height="50"/> &nbsp;
   <img src="https://static-00.iconduck.com/assets.00/react-original-wordmark-icon-840x1024-vhmauxp6.png" alt="reactjs" width="50" height="50"/> &nbsp;
   <img src="https://i.pinimg.com/736x/4a/2b/e7/4a2be73b1e2efb44355436c40bf496dd.jpg" alt="nextjs" width="50" height="50"/> &nbsp;
