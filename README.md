@@ -19,10 +19,12 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF0xpUcu8vdYNU_tg6akKtnP4Fnb6byUEGKA&s" alt="bootstrap" width="35" height="35"/>
+<p align="left"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF0xpUcu8vdYNU_tg6akKtnP4Fnb6byUEGKA&s" alt="bootstrap" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <img src="https://brandslogos.com/wp-content/uploads/images/large/react-logo-1.png" alt="reactjs" width="35" height="35"/>
+<img src="https://media2.dev.to/dynamic/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fql92zpsre2li58mpjpsa.png" alt="nextjs" width="35" height="35"/>
+
 
 </p>
 
