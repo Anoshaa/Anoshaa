@@ -19,7 +19,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"><img src="https://w7.pngwing.com/pngs/628/224/png-transparent-bootstrap-plain-wordmark-logo-icon-thumbnail.png" alt="bootstrap" width="40" height="40"/>
+<p align="left"><img src="https://github.com/Anoshaa/Anoshaa/blob/main/bootstrap logo" alt="bootstrap" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <img src="https://brandslogos.com/wp-content/uploads/images/large/react-logo-1.png" alt="reactjs" width="40" height="40"/>
