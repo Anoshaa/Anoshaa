@@ -20,14 +20,13 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF0xpUcu8vdYNU_tg6akKtnP4Fnb6byUEGKA&s" alt="bootstrap" width="50" height="50"/> &nbsp;
-  <img src="https://img.icons8.com/color/512/css3.png" alt="css3" width="50" height="50"/> &nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" alt="html5" width="50" height="50"/> &nbsp;
-  <img src="https://static-00.iconduck.com/assets.00/react-original-wordmark-icon-840x1024-vhmauxp6.png" alt="reactjs" width="50" height="50"/> &nbsp;
-  <img src="https://i.pinimg.com/736x/4a/2b/e7/4a2be73b1e2efb44355436c40bf496dd.jpg" alt="nextjs" width="50" height="50"/> &nbsp;
+ <img src="https://camo.githubusercontent.com/87d97e4553a60edf0a89b98ae7e96ff2293c51ca69754f7b605c342ab0400a7a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f626f6f7473747261702d2532333835313146412e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465" alt="bootstrap"/> &nbsp;
+  <img src="https://camo.githubusercontent.com/930c71eac967cc5cec61c0aa08ba3719f9cb68e28cdffa63b28b0a31be1663b4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332d2532333135373242362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" alt="css3"/> &nbsp;
+  <img src="https://camo.githubusercontent.com/d4d9d935f85b68223a3514c6a889ea3ed6a77afb5f560c05baa1a1b168077830/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="html5"/> &nbsp;
+  <img src="https://camo.githubusercontent.com/f93e05694a6f01f2f6a37713a454a942442a5ff2b33083891096a6f7e57842f8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742d2532333230323332612e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642" alt="reactjs"/> &nbsp;
+  <img src="https://camo.githubusercontent.com/d4ff95c6c85e810b4acfe5dbf01bf2b44680cf75945b21a7e5438c87b473f2c6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6578742d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6578742e6a73266c6f676f436f6c6f723d7768697465" alt="nextjs"/> &nbsp;
   <img src="https://firebase.google.com/static/images/brand-guidelines/logo-vertical.png" alt="firebase" width="50" height="50"/> &nbsp;
-  <img src="https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/09/10170325/Tailwind-CSS-Logo-1.png" alt="tailwind css" width="100" height="80"/> &nbsp;
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc4XOdTwDFjrNDoRbCH2vDqCNCKD9u8zVr_g&s" alt="vite" width="50" height="50"/> &nbsp;
+  <img src="https://camo.githubusercontent.com/b2eac0f505dfd05c25acf8c285b5eb346916090126c8836c6cbf9aeb754eac32/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7461696c77696e646373732d2532333338423241432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7461696c77696e642d637373266c6f676f436f6c6f723d7768697465" alt="tailwind css" width="100" height="80"/> &nbsp;
   <img src="https://camo.githubusercontent.com/d4cfec9550517aa67567e29843e3880ebf50bd7eeceafcd3b82875f17c9f564e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747970657363726970742d2532333030374143432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465" alt="ts" /> &nbsp;
 
 
