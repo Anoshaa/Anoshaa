@@ -26,7 +26,7 @@
   <img src="https://static-00.iconduck.com/assets.00/react-original-wordmark-icon-840x1024-vhmauxp6.png" alt="reactjs" width="50" height="50"/> &nbsp;
   <img src="https://i.pinimg.com/736x/4a/2b/e7/4a2be73b1e2efb44355436c40bf496dd.jpg" alt="nextjs" width="50" height="50"/> &nbsp;
   <img src="https://firebase.google.com/static/images/brand-guidelines/logo-vertical.png" alt="firebase" width="50" height="50"/> &nbsp;
-  <img src="https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/09/10170325/Tailwind-CSS-Logo-1.png" alt="tailwind css" width="80" height="80"/> &nbsp;
+  <img src="https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/09/10170325/Tailwind-CSS-Logo-1.png" alt="tailwind css" width="100" height="80"/> &nbsp;
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc4XOdTwDFjrNDoRbCH2vDqCNCKD9u8zVr_g&s" alt="vite" width="50" height="50"/> &nbsp;
 
 
