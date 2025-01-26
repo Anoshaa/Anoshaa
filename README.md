@@ -23,9 +23,14 @@
  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF0xpUcu8vdYNU_tg6akKtnP4Fnb6byUEGKA&s" alt="bootstrap" width="50" height="50"/> &nbsp;
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDnQyPzKZsXzhEaOdTxqnzjUljfQApEKPIDg&s" alt="css3" width="50" height="50"/> &nbsp;
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYk594AhSKw5Eb3iHkPHs_XmpCqaRVgu0mvg&s" alt="html5" width="50" height="50"/> &nbsp;
-  <img src="https://brandslogos.com/wp-content/uploads/images/large/react-logo-1.png" alt="reactjs" width="50" height="50"/> &nbsp;
+  <img src="https://static-00.iconduck.com/assets.00/react-original-wordmark-icon-840x1024-vhmauxp6.png" alt="reactjs" width="50" height="50"/> &nbsp;
   <img src="https://i.pinimg.com/736x/4a/2b/e7/4a2be73b1e2efb44355436c40bf496dd.jpg" alt="nextjs" width="50" height="50"/> &nbsp;
-  <img src="https://firebase.google.com/static/images/brand-guidelines/logo-vertical.png" alt="firebase" width="50" height="50"/>
+  <img src="https://firebase.google.com/static/images/brand-guidelines/logo-vertical.png" alt="firebase" width="50" height="50"/> &nbsp;
+  <img src="https://media.licdn.com/dms/image/D5612AQGgOrcWyxT6fg/article-cover_image-shrink_600_2000/0/1662446193162?e=2147483647&v=beta&t=MUUJpU6L5cULlw5e_0qICQZOiNeFyGCqoOSoCNsIBrg" alt="tailwind css" width="50" height="50"/> &nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc4XOdTwDFjrNDoRbCH2vDqCNCKD9u8zVr_g&s" alt="vite" width="50" height="50"/> &nbsp;
+
+
+
 
 
 
