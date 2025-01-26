@@ -19,10 +19,10 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF0xpUcu8vdYNU_tg6akKtnP4Fnb6byUEGKA&s" alt="bootstrap" width="40" height="40"/>
+<p align="left"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF0xpUcu8vdYNU_tg6akKtnP4Fnb6byUEGKA&s" alt="bootstrap" width="35" height="35"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://brandslogos.com/wp-content/uploads/images/large/react-logo-1.png" alt="reactjs" width="40" height="40"/>
+<img src="https://brandslogos.com/wp-content/uploads/images/large/react-logo-1.png" alt="reactjs" width="35" height="35"/>
 
 </p>
 
