@@ -28,7 +28,7 @@
   <img src="https://firebase.google.com/static/images/brand-guidelines/logo-vertical.png" alt="firebase" width="50" height="50"/> &nbsp;
   <img src="https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/09/10170325/Tailwind-CSS-Logo-1.png" alt="tailwind css" width="100" height="80"/> &nbsp;
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc4XOdTwDFjrNDoRbCH2vDqCNCKD9u8zVr_g&s" alt="vite" width="50" height="50"/> &nbsp;
-  <img src="https://camo.githubusercontent.com/d4cfec9550517aa67567e29843e3880ebf50bd7eeceafcd3b82875f17c9f564e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747970657363726970742d2532333030374143432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465" alt="ts" width="50" height="50"/> &nbsp;
+  <img src="https://camo.githubusercontent.com/d4cfec9550517aa67567e29843e3880ebf50bd7eeceafcd3b82875f17c9f564e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747970657363726970742d2532333030374143432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465" alt="ts" /> &nbsp;
 
 
 
